@@ -23,10 +23,10 @@
   </a>
 </div>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=VanshikaaZ&show_icons=true&locale=en&theme=dark" alt="VanshikaaZ"/></p>
-<br>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaaZ&layout=compact&hide=html&theme=dark" alt="VanshikaaZ" width="450"/></p>
-<br>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaaZ&theme=dark" alt="VanshikaaZ" /></p>
+### Github stats
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaaZ&layout=compact&hide=html&theme=dark" alt="VanshikaaZ" width="600" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=VanshikaaZ&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="VanshikaaZ" env="PAT_1" width="600" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaaZ&theme=tokyonight"  alt="VanshikaaZ" env="PAT_1" width="280"/></p>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=VanshikaaZ&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"  alt="VanshikaaZ" height="280"/></p>
 
 
